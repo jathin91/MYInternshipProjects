@@ -1,2 +1,1 @@
-# MYInternshipProjects
-This is my portfolio done using HTML &amp; CSS.
+# My_website
